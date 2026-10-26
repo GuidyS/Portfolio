@@ -1,17 +1,19 @@
-# Portfolio
+# GuidyS Portfolio
 
-เว็บไซต์รวมผลงานของ [GuidyS](https://github.com/GuidyS) จากโปรเจกต์บน GitHub
+Portfolio ที่รวมเว็บไซต์และโปรเจกต์จาก [GitHub ของ GuidyS](https://github.com/GuidyS)
 
-## ดูเว็บไซต์
+## เริ่มใช้งาน
 
-[GuidyS Portfolio](https://guidys-portfolio-2026.sprybetta5.chatgpt.site)
+```bash
+npm install
+npm run dev
+```
 
-## โครงสร้าง
+## ตรวจสอบก่อนเผยแพร่
 
-- `index.html` — เนื้อหาหน้าเว็บ
-- `styles.css` — รูปแบบและการจัดหน้า
-- `assets/` — ภาพตัวอย่างผลงาน
+```bash
+npm run build
+npm run preview
+```
 
-เว็บนี้เป็น static site ไม่มีขั้นตอน build สามารถเปิด `index.html` ในเบราว์เซอร์ หรือใช้ static server ในโฟลเดอร์นี้ได้ทันที
-
-ลิงก์เว็บด้านบนโฮสต์ด้วย Sites และตั้งค่าการเข้าชมแบบส่วนตัวอยู่
+เว็บที่เผยแพร่: https://guidys-portfolio-2026.sprybetta5.chatgpt.site/
