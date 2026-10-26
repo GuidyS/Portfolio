@@ -13,8 +13,8 @@ function App() {
   <main id="top">
     <section className="hero wrap">
       <div className="hero-copy">
-        <h1>เว็บที่ผมทำ<span className="period">.</span><br /><span className="hero-second-line">ลองเปิดดูได้เลย</span></h1>
-        <p className="hero-intro">ผลงานของ GuidyS บน GitHub มีตั้งแต่เว็บค้นหาข้อมูล F1 และเว็บชวนนัดเดท ไปจนถึงแดชบอร์ด IoT กับระบบจัดการข้อมูล เลือกดูเว็บที่เปิดใช้งานได้ หรือเข้าไปอ่านโค้ดของแต่ละโปรเจกต์</p>
+        <h1>Portfolio</h1>
+        <p className="hero-intro">ผลงานของ Similun Wiyaphon บน GitHub มีตั้งแต่เว็บค้นหาข้อมูล F1 และเว็บชวนนัดเดท ไปจนถึงแดชบอร์ด IoT กับระบบ MIS</p>
         <div className="hero-actions"><a className="button button-primary" href="#work">ดูผลงาน <span aria-hidden="true">↘</span></a><a className="button button-ghost" href="https://github.com/GuidyS?tab=repositories" target="_blank" rel="noopener noreferrer">ดูทุก Repository <span aria-hidden="true">↗</span></a></div>
       </div>
       <div className="hero-visual" aria-label="ตัวอย่างหน้าเว็บ F1 Search และ Love Spark">
