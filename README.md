@@ -16,4 +16,4 @@ npm run build
 npm run preview
 ```
 
-เว็บที่เผยแพร่: https://guidys-portfolio-2026.sprybetta5.chatgpt.site/
+เว็บที่เผยแพร่: https://portfolio-git-main-guidys-projects.vercel.app/
